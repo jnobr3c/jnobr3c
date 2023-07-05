@@ -14,7 +14,7 @@
 
 <br>🌱 - **Atualmente estou aprendendo...** <br>
 
-[![Aprendendo](https://skillicons.dev/icons?i=wordpress&theme=dark)](https://skillicons.dev)
+[![Aprendendo](https://skillicons.dev/icons?i=wordpress,spring&theme=dark)](https://skillicons.dev)
 
 
 <br>🚀 - **Quero Aprender:**
