@@ -32,7 +32,7 @@
 |<img width="91%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobr3c&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />|<img width="91%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nobr3c&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117" alt="No_Bre_ github stats" />|
 | :-: | :-: |
 
-|[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nobr3c&bg_color=0b0c23&color=4682B4&line=362bda&point=5e5a5a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)|
+|[<img src="https://github-readme-activity-graph.vercel.app/graph?username=nobr3c&theme=tokyo-night" width="600" alt="github activity graph"/>](https://github.com/ashutosh00710/github-readme-activity-graph)|
 | :-: |
 <!--
 - 👋 Hi, I’m @nobr3c
