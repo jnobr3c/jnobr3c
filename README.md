@@ -14,7 +14,7 @@
 
 <br>🌱 - **Atualmente estou aprendendo...** <br>
 
-[![Aprendendo](https://skillicons.dev/icons?i=wordpress,spring&theme=dark)](https://skillicons.dev)
+[![Aprendendo](https://skillicons.dev/icons?i=wordpress,spring,angular,ts&theme=dark)](https://skillicons.dev)
 
 
 <br>🚀 - **Quero Aprender:**
@@ -40,6 +40,12 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+<p align="center">:round_pushpin: Contagem de visitantes</p>
+<div align="center">
+                      <a href="https://github.com/nobr3c">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/nobr3c/count.svg">
+   </div> 
 
 <!---
 nobr3c/nobr3c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
