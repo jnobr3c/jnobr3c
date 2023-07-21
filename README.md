@@ -19,7 +19,7 @@
 
 <br>🚀 - **Quero Aprender:**
 
-[![Aprender](https://skillicons.dev/icons?i=tensorflow,ansible,dart,dotnet,express,gcp,grafana,nodejs,js,kubernetes,ruby,laravel&theme=dark)](https://skillicons.dev)
+[![Aprender](https://skillicons.dev/icons?i=tensorflow,ansible,flutter,dart,dotnet,express,gcp,grafana,nodejs,js,kubernetes,ruby,jquery,laravel,kotlin,mongodb,nestjs,nextjs,nginx,perl,postgres,react,reactivex,redux&theme=dark)](https://skillicons.dev)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
