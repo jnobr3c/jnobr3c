@@ -9,7 +9,7 @@
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=androidstudio,eclipse,py,azure,aws,git,gitlab,postman,figma,bash,linux&theme=dark)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=androidstudio,eclipse,py,azure,aws,git,gitlab,postman,linux&theme=dark)](https://skillicons.dev)
 
 
 <br>🌱 - **Atualmente estou aprendendo...** <br>
