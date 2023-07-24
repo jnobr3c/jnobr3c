@@ -1,3 +1,5 @@
+- 👋 Hi, I’m @nobr3c
+
 ### 🔭 - Atualmente estou trabalhando com:<br></div>
 - Front-End
 
@@ -35,7 +37,7 @@
 |[<img src="https://github-readme-activity-graph.vercel.app/graph?username=nobr3c&theme=tokyo-night" width="600" alt="github activity graph"/>](https://github.com/ashutosh00710/github-readme-activity-graph)|
 | :-: |
 <!--
-- 👋 Hi, I’m @nobr3c
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
