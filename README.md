@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nobr3c
 
-### 🔭 - I'm currently working with:<br></div>
+### 🚀 - I'm currently working with:<br></div>
 - Front-End
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=java,html,css,bootstrap&theme=dark)](https://skillicons.dev)
@@ -19,7 +19,7 @@
 [![Aprendendo](https://skillicons.dev/icons?i=wordpress,spring,angular,ts&theme=dark)](https://skillicons.dev)
 
 
-<br>🚀 - **Quero Aprender:**
+<br> - **👀 I’m interested in:**
 
 [![Aprender](https://skillicons.dev/icons?i=tensorflow,ansible,flutter,dart,dotnet,express,gcp,grafana,nodejs,js,kubernetes,ruby,jquery,laravel,kotlin,mongodb,nestjs,nextjs,nginx,perl,postgres,react,reactivex,redux&theme=dark)](https://skillicons.dev)
 
@@ -37,8 +37,6 @@
 |[<img src="https://github-readme-activity-graph.vercel.app/graph?username=nobr3c&theme=tokyo-night" width="600" alt="github activity graph"/>](https://github.com/ashutosh00710/github-readme-activity-graph)|
 | :-: |
 <!--
-
-- 👀 I’m interested in ...
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
