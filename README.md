@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nobr3c
 
-### 🔭 - Atualmente estou trabalhando com:<br></div>
+### 🔭 - I'm currently working with:<br></div>
 - Front-End
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=java,html,css,bootstrap&theme=dark)](https://skillicons.dev)
@@ -14,7 +14,7 @@
 [![Minhas Habilidades](https://skillicons.dev/icons?i=androidstudio,eclipse,py,azure,aws,git,gitlab,postman,linux&theme=dark)](https://skillicons.dev)
 
 
-<br>🌱 - **Atualmente estou aprendendo...** <br>
+<br> **- 🌱 I’m currently learning:** <br>
 
 [![Aprendendo](https://skillicons.dev/icons?i=wordpress,spring,angular,ts&theme=dark)](https://skillicons.dev)
 
@@ -39,7 +39,7 @@
 <!--
 
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
