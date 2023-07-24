@@ -36,10 +36,14 @@
 
 |[<img src="https://github-readme-activity-graph.vercel.app/graph?username=nobr3c&theme=tokyo-night" width="600" alt="github activity graph"/>](https://github.com/ashutosh00710/github-readme-activity-graph)|
 | :-: |
+
+ 📫 How to reach me [Nobr3c]([https://github.com/](https://linktr.ee/no_bre_))
+
+
 <!--
 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-
 
 <p align="center">:round_pushpin: Contagem de visitantes</p>
 <div align="center">
