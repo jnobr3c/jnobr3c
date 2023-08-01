@@ -21,7 +21,7 @@
 
 <br> - **👀 I’m interested in:**
 
-[![Aprender](https://skillicons.dev/icons?i=tensorflow,ansible,flutter,dart,dotnet,express,gcp,grafana,nodejs,js,kubernetes,ruby,jquery,laravel,kotlin,mongodb,nestjs,nextjs,nginx,perl,postgres,react,reactivex,redux,cpp,graphql,sass&theme=dark&perline=8)](https://skillicons.dev)
+[![Aprender](https://skillicons.dev/icons?i=tensorflow,ansible,flutter,dart,dotnet,express,gcp,grafana,nodejs,js,kubernetes,ruby,jquery,laravel,kotlin,mongodb,nestjs,nextjs,nginx,perl,postgres,react,reactivex,redux,cpp,graphql,sass&theme=dark&perline=9)](https://skillicons.dev)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
