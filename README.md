@@ -11,17 +11,17 @@
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=androidstudio,eclipse,py,azure,aws,git,gitlab,postman,linux&theme=dark)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=androidstudio,eclipse,vscode,py,azure,aws,git,gitlab,postman,visualstudio,linux&theme=dark)](https://skillicons.dev)
 
 
 <br> **- 🌱 I’m currently learning:** <br>
 
-[![Aprendendo](https://skillicons.dev/icons?i=wordpress,spring,angular,ts&theme=dark)](https://skillicons.dev)
+[![Aprendendo](https://skillicons.dev/icons?i=wordpress,spring,angular,ts,idea&theme=dark)](https://skillicons.dev)
 
 
 <br> - **👀 I’m interested in:**
 
-[![Aprender](https://skillicons.dev/icons?i=tensorflow,ansible,flutter,dart,dotnet,express,gcp,grafana,nodejs,js,kubernetes,ruby,jquery,laravel,kotlin,mongodb,nestjs,nextjs,nginx,perl,postgres,react,reactivex,redux&theme=dark&perline=8)](https://skillicons.dev)
+[![Aprender](https://skillicons.dev/icons?i=tensorflow,ansible,flutter,dart,dotnet,express,gcp,grafana,nodejs,js,kubernetes,ruby,jquery,laravel,kotlin,mongodb,nestjs,nextjs,nginx,perl,postgres,react,reactivex,redux,cpp,graphql,sass&theme=dark&perline=8)](https://skillicons.dev)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
