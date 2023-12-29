@@ -1,6 +1,14 @@
 - 👋 Hi, I’m @nobr3c
+  
+I'm fascinated by the technology area and I'm always looking for something new to learn.<br>
+<br>
+🎓 Currently graduating in Cumputer Science<br>
+🎓 Systems Development Technician<br>
 
-### 🚀 - I'm currently working with:<br></div>
+# 💻 Tech Stack
+
+### 🚀 - I'm currently working with:<br>
+
 - Front-End
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=java,html,css,bootstrap&theme=dark)](https://skillicons.dev)
@@ -15,7 +23,7 @@
 
 <!-- androidstudio,eclipse,vscode,py,azure,aws,git,gitlab,postman,visualstudio,linux -->
 
-<br> **- 🌱 I’m currently learning:** <br>
+<br> **- 🎯 I’m currently learning:** <br>
 
 [![Aprendendo](https://skillicons.dev/icons?i=spring,angular&theme=dark)](https://skillicons.dev)
 <!--wordpress,ts,idea-->
