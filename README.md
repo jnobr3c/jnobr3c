@@ -50,6 +50,12 @@ I'm fascinated by the technology area and I'm always looking for something new t
 
  📫 How to reach me [Nobr3c]([https://github.com/](https://linktr.ee/nobre_81))
 
+<p align="center">:round_pushpin: Contagem de visitantes</p>
+<div align="center">
+                      <a href="https://github.com/nobr3c">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/nobr3c/count.svg">
+   </div> 
+
 
 <!--
 
