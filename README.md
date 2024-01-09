@@ -33,7 +33,7 @@ I'm fascinated by the technology area and I'm always looking for something new t
 [![Aprender](https://skillicons.dev/icons?i=kotlin,mongodb,postgres,graphql&theme=dark&perline=9)](https://skillicons.dev)
 
 <!--tensorflow,ansible,flutter,dart,dotnet,express,gcp,grafana,nodejs,js,kubernetes,ruby,jquery,laravel,kotlin,mongodb,nestjs,nextjs,nginx,perl,postgres,react,reactivex,redux,cpp,graphql,sass -->
-
+ 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nobr3c&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nobr3c&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nobr3c&theme=nord_dark) |
@@ -48,13 +48,17 @@ I'm fascinated by the technology area and I'm always looking for something new t
 |[<img src="https://github-readme-activity-graph.vercel.app/graph?username=nobr3c&theme=tokyo-night" width="600" alt="github activity graph"/>](https://github.com/ashutosh00710/github-readme-activity-graph)|
 | :-: |
 
- 📫 How to reach me [Nobr3c]([https://github.com/](https://linktr.ee/nobre_81))
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nobr3c&color=ff0000" alt="Profile views" /> </p>
 
+<!--
+ 📫 How to reach me [Nobr3c]([https://github.com/](https://linktr.ee/nobre_81)) -->
+
+<!--
 <p align="center">:round_pushpin: Contagem de visitantes</p>
 <div align="center">
                       <a href="https://github.com/nobr3c">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/nobr3c/count.svg">
-   </div> 
+   </div> -->
 
 
 <!--
