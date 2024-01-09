@@ -23,13 +23,13 @@ I'm fascinated by the technology area and I'm always looking for something new t
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=androidstudio,eclipse,git,gitlab,postman&theme=dark)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=androidstudio,eclipse,git,gitlab,vscode,postman&theme=dark)](https://skillicons.dev)
 
-<!-- androidstudio,eclipse,vscode,py,azure,aws,git,gitlab,postman,visualstudio,linux -->
+<!-- androidstudio,eclipse,vscode,azure,aws,git,gitlab,postman,,linux -->
 
 <br> **- 🎯 I’m currently learning:** <br>
 
-[![Aprendendo](https://skillicons.dev/icons?i=spring,angular&theme=dark)](https://skillicons.dev)
+[![Aprendendo](https://skillicons.dev/icons?i=spring,angular,py&theme=dark)](https://skillicons.dev)
 <!--wordpress,ts,idea-->
 
 <br> - **👀 I’m interested in:**
