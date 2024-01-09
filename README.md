@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nobr3c&color=ff0000" alt="Profile views" /> </p>
 - 👋 Hi, I’m @nobr3c
   
 I'm fascinated by the technology area and I'm always looking for something new to learn.<br>
@@ -48,7 +49,7 @@ I'm fascinated by the technology area and I'm always looking for something new t
 |[<img src="https://github-readme-activity-graph.vercel.app/graph?username=nobr3c&theme=tokyo-night" width="600" alt="github activity graph"/>](https://github.com/ashutosh00710/github-readme-activity-graph)|
 | :-: |
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nobr3c&color=ff0000" alt="Profile views" /> </p>
+
 
 <!--
  📫 How to reach me [Nobr3c]([https://github.com/](https://linktr.ee/nobre_81)) -->
