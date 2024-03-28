@@ -4,6 +4,8 @@
 I'm fascinated by the technology area and I'm always looking for something new to learn.<br>
 <br>
 
+💻 I'm working on personal and academic projects, exploring interesting problems and developing creative solutions. I am open to collaborations and opportunities to contribute to open source projects.<br>
+
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 🎓 Currently graduating in Cumputer Science<br>
