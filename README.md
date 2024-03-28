@@ -34,6 +34,10 @@ I'm fascinated by the technology area and I'm always looking for something new t
 
 <br> - **👀 I’m interested in:**
 
+🔍 I'm always looking for opportunities to collaborate on open source projects, contribute to the community and expand my technical knowledge.
+
+- I'm looking to learn: <br> 
+
 [![Aprender](https://skillicons.dev/icons?i=kotlin,mongodb,postgres,graphql&theme=dark&perline=9)](https://skillicons.dev)
 
 <!--tensorflow,ansible,flutter,dart,dotnet,express,gcp,grafana,nodejs,js,kubernetes,ruby,jquery,laravel,kotlin,mongodb,nestjs,nextjs,nginx,perl,postgres,react,reactivex,redux,cpp,graphql,sass -->
