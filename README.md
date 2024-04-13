@@ -9,7 +9,12 @@ I'm fascinated by the technology area and I'm always looking for something new t
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 🎓 Currently graduating in Cumputer Science<br>
-🎓 Systems Development Technician<br>
+🎓 Systems Development Technician
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # 💻 Tech Stack
 
