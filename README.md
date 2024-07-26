@@ -66,6 +66,8 @@ I'm fascinated by the technology area and I'm always looking for something new t
 
 
 <!--
+
+https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg
  📫 How to reach me [Nobr3c]([https://github.com/](https://linktr.ee/nobre_81)) -->
 
 <!--
