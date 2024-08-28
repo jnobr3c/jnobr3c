@@ -36,7 +36,7 @@ I'm fascinated by the technology area and I'm always looking for something new t
 
 <br> **- 🎯 I’m currently learning:** <br>
 
-[![Aprendendo](https://skillicons.dev/icons?i=spring,angular,ts,py&theme=dark)](https://skillicons.dev)
+[![Aprendendo](https://skillicons.dev/icons?i=spring,angular,graphql,ts,py&theme=dark)](https://skillicons.dev)
 <!--wordpress,ts,idea-->
 
 <br> - **👀 I’m interested in:**
@@ -45,7 +45,7 @@ I'm fascinated by the technology area and I'm always looking for something new t
 
 - I'm looking to learn: <br> 
 
-[![Aprender](https://skillicons.dev/icons?i=kotlin,mongodb,postgres,graphql&theme=dark&perline=9)](https://skillicons.dev)
+[![Aprender](https://skillicons.dev/icons?i=kotlin,mongodb,postgres&theme=dark&perline=9)](https://skillicons.dev)
 
 <!--tensorflow,ansible,flutter,dart,dotnet,express,gcp,grafana,nodejs,js,kubernetes,ruby,jquery,laravel,kotlin,mongodb,nestjs,nextjs,nginx,perl,postgres,react,reactivex,redux,cpp,graphql,sass -->
  
