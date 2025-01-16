@@ -2,15 +2,14 @@
 - 👋 Hi, I’m @nobr3c
   
 I'm fascinated by the technology area and I'm always looking for something new to learn.<br>
-<br>
+
 
 💻 I'm working on personal and academic projects, exploring interesting problems and developing creative solutions. I am open to collaborations and opportunities to contribute to open source projects.<br>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
 🎓 Systems Development Technician
-<br>
+
 <br>
 <br>
 <br>
@@ -64,10 +63,11 @@ I'm fascinated by the technology area and I'm always looking for something new t
 | :-: |
 
 
-
 <!--
+<img width="35%" align="left" alt="Github" src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg"/>
+<img width="35%" align="left" alt="Github" src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg"/>
 
-https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg
+
  📫 How to reach me [Nobr3c]([https://github.com/](https://linktr.ee/nobre_81)) -->
 
 <!--
