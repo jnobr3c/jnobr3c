@@ -6,7 +6,21 @@ I'm fascinated by the technology area and I'm always looking for something new t
 
 💻 I'm working on personal and academic projects, exploring interesting problems and developing creative solutions. I am open to collaborations and opportunities to contribute to open source projects.<br>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!--
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+
+<div>
+  <!-- Primeira imagem em cima -->
+  <div style="display: flex; flex-direction: column;">
+    <img src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg" width="30%" />
+  </div>
+
+  <!-- Segunda e terceira imagem lado a lado -->
+  <div style="display: flex; justify-content: flex-start;">
+    <img src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg" width="45%" />
+    <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="45%" />
+  </div>
+</div>
 
 🎓 Systems Development Technician
 
