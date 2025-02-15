@@ -49,7 +49,7 @@ I'm fascinated by the technology area and I'm always looking for something new t
 
 <br> **- 🎯 I’m currently learning:** <br>
 
-[![Aprendendo](https://skillicons.dev/icons?i=graphql,nodejs,npm&theme=dark)](https://skillicons.dev)
+[![Aprendendo](https://skillicons.dev/icons?i=graphql,nodejs,vuetify,apollo,npm&theme=dark)](https://skillicons.dev)
 <!--wordpress,ts,idea-->
 
 <br> - **👀 I’m interested in:**
