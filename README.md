@@ -78,6 +78,8 @@ I'm fascinated by the technology area and I'm always looking for something new t
 
 I'm documenting my evolution process on my GitHub.
 
+# 🌐 Socials:
+
 You can find me: <a href="https://www.linkedin.com/in/josé-nobrec/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!--
 <img width="35%" align="left" alt="Github" src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg"/>
