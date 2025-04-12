@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jnobr3c&color=ff0000" alt="Profile views" /> </p>
-- 👋 Hi, I’m @nobr3c
+- 👋 Hi, I’m José Nobre
   
 I'm fascinated by the technology area and I'm always looking for something new to learn.<br>
 
