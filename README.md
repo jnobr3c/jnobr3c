@@ -22,7 +22,7 @@ I'm fascinated by the technology area and I'm always looking for something new t
   </div>
 </div>
 
-🎓 Systems Development Technician
+
 
 <br>
 <br>
