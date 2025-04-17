@@ -1,68 +1,44 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=jnobr3c&color=ff0000" alt="Profile views" /> </p>
-- 👋 Hi, I’m José Nobre
-  
-I'm fascinated by the technology area and I'm always looking for something new to learn.<br>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=jnobr3c&color=ff0000" alt="Profile views" />
+</p>
 
+# 👋 Hi, I'm José Nobre
 
-💻 I'm working on personal and academic projects, exploring interesting problems and developing creative solutions. I am open to collaborations and opportunities to contribute to open source projects.<br>
+💡 I'm passionate about technology and love turning ideas into code. Currently, I’m exploring both personal and academic projects focused on solving real-world problems creatively.
 
-<!--
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+🎯 I'm always looking to collaborate, contribute to open-source projects, and stay curious about everything that can help me grow as a developer.
 
-<div>
-  <!-- Primeira imagem em cima -->
-  <div style="display: flex; flex-direction: column;">
-    <img src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg" width="30%" />
-  </div>
+---
 
-  <!-- Segunda e terceira imagem lado a lado -->
-  <div style="display: flex; justify-content: flex-start;">
-    <img src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg" width="45%" />
-    <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="45%" />
-  </div>
-</div>
+## 💻 Tech Stack
 
+### 🚀 Currently working with:
+**Front-End**  
+[![Frontend](https://skillicons.dev/icons?i=java,html,css,bootstrap&theme=dark)](https://skillicons.dev)
 
+**Back-End**  
+[![Backend](https://skillicons.dev/icons?i=docker,sqlite,mysql,firebase&theme=dark)](https://skillicons.dev)
 
-<br>
-<br>
-<br>
-<br>
+**Tools & Platforms**  
+[![Tools](https://skillicons.dev/icons?i=androidstudio,eclipse,git,gitlab,vscode,postman&theme=dark)](https://skillicons.dev)
 
-# 💻 Tech Stack
+---
 
-### 🚀 - I'm currently working with:<br>
+### 📚 Currently learning
+[![Learning](https://skillicons.dev/icons?i=graphql,nodejs,vuetify,apollo,npm&theme=dark)](https://skillicons.dev)
 
-- Front-End
+---
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=java,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+### 🔍 Interests & Next Steps
+I'm especially interested in working with modern back-end and database technologies like:
 
-- Back-End
+[![LearningNext](https://skillicons.dev/icons?i=kotlin,mongodb,postgres&theme=dark&perline=9)](https://skillicons.dev)
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=docker,sqlite,mysql,firebase&theme=dark)](https://skillicons.dev)
+I'm also documenting my evolution here on GitHub — one commit at a time. 🚀
 
-- Tools and Plataforms
+---
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=androidstudio,eclipse,git,gitlab,vscode,postman&theme=dark)](https://skillicons.dev)
-
-<!-- androidstudio,eclipse,vscode,azure,aws,git,gitlab,postman,,linux -->
-
-<br> **- 🎯 I’m currently learning:** <br>
-
-[![Aprendendo](https://skillicons.dev/icons?i=graphql,nodejs,vuetify,apollo,npm&theme=dark)](https://skillicons.dev)
-<!--wordpress,ts,idea-->
-
-<br> - **👀 I’m interested in:**
-
-🔍 I'm always looking for opportunities to collaborate on open source projects, contribute to the community and expand my technical knowledge.
-
-- I'm looking to learn: <br> 
-
-[![Aprender](https://skillicons.dev/icons?i=kotlin,mongodb,postgres&theme=dark&perline=9)](https://skillicons.dev)
-
-<!--tensorflow,ansible,flutter,dart,dotnet,express,gcp,grafana,nodejs,js,kubernetes,ruby,jquery,laravel,kotlin,mongodb,nestjs,nextjs,nginx,perl,postgres,react,reactivex,redux,cpp,graphql,sass -->
- 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📊 GitHub Stats & Activity
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jnobr3c&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jnobr3c&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jnobr3c&theme=nord_dark) |
 | :-: | :-: | :-: |
@@ -73,14 +49,17 @@ I'm fascinated by the technology area and I'm always looking for something new t
 |<img width="91%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnobr3c&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />|<img width="91%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jnobr3c&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117" alt="Jnobr3c github stats" />|
 | :-: | :-: |
 
-|[<img src="https://github-readme-activity-graph.vercel.app/graph?username=jnobr3c&theme=tokyo-night" width="600" alt="github activity graph"/>](https://github.com/ashutosh00710/github-readme-activity-graph)|
+|<img src="https://github-readme-activity-graph.vercel.app/graph?username=jnobr3c&theme=tokyo-night" width="100%" alt="github activity graph"/>|
 | :-: |
 
-I'm documenting my evolution process on my GitHub.
+---
 
-# 🌐 Socials:
+## 🌐 Connect with me
 
-You can find me: <a href="https://www.linkedin.com/in/josé-nobrec/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+Feel free to reach out to talk tech, collaborate, or just say hi!
+
+[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/josé-nobrec/)
+
 <!--
 <img width="35%" align="left" alt="Github" src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg"/>
 <img width="35%" align="left" alt="Github" src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg"/>
