@@ -1,3 +1,104 @@
+<!-- # 👋 Hi, I'm José Nobre
+
+Backend Developer focused on building **REST APIs with Java and Spring Boot**.
+
+I enjoy designing backend systems, working with databases, and turning real-world problems into scalable software solutions.
+
+Currently building projects using:
+
+Java • Spring Boot • SQL • Docker • REST APIs
+
+---
+
+# 🚀 Featured Projects
+
+### 📌 Task Manager API
+REST API for task management with authentication and database persistence.
+
+**Features**
+- User authentication
+- CRUD operations for tasks
+- Database integration
+
+**Tech Stack**
+
+Java • Spring Boot • PostgreSQL • REST
+
+
+Repository  
+(link do projeto)
+
+---
+
+### 🔐 Authentication System (JWT)
+
+Authentication and authorization system using **JWT and Spring Security**.
+
+**Features**
+
+- Secure login
+- Token authentication
+- Protected endpoints
+
+**Tech Stack**
+
+Java • Spring Security • JWT • REST
+
+Repository  
+(link)
+
+
+---
+
+### 🛒 E-commerce API
+
+Backend service for managing **products, orders, and users**.
+
+**Features**
+
+- Product catalog
+- Order management
+- Database persistence
+
+**Tech Stack**
+
+Java • Spring Boot • JPA • SQL
+
+Repository  
+(link)
+
+# 💻 Tech Stack
+
+### Backend
+[![Backend](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
+
+### Databases
+[![Database](https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=dark)](https://skillicons.dev)
+
+### Tools
+[![Tools](https://skillicons.dev/icons?i=docker,git,vscode,postman,eclipse&theme=dark)](https://skillicons.dev)
+
+### Currently Learning
+[![Learning](https://skillicons.dev/icons?i=nodejs,graphql,apollo,npm&theme=dark)](https://skillicons.dev)
+
+---
+
+# 📊 GitHub Stats
+
+| <img src="https://github-readme-stats.vercel.app/api?username=jnobr3c&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnobr3c&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117"/> |
+| :-: | :-: |
+
+---
+
+# 🌐 Connect with me
+
+Feel free to reach out if you'd like to collaborate, discuss backend development, or talk about technology.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-nobrec/)
+
+-->
+
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=jnobr3c&color=ff0000" alt="Profile views" />
 </p>
@@ -60,34 +161,3 @@ Feel free to reach out to talk tech, collaborate, or just say hi!
 
 [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/josé-nobrec/)
 
-<!--
-<img width="35%" align="left" alt="Github" src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg"/>
-<img width="35%" align="left" alt="Github" src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg"/>
-
-
- 📫 How to reach me [Nobr3c]([https://github.com/](https://linktr.ee/nobre_81)) -->
-
-<!--
-<p align="center">:round_pushpin: Contagem de visitantes</p>
-<div align="center">
-                      <a href="https://github.com/nobr3c">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/nobr3c/count.svg">
-   </div> -->
-
-
-<!--
-
-- 💞️ I’m looking to collaborate on ...
--
-
-<p align="center">:round_pushpin: Contagem de visitantes</p>
-<div align="center">
-                      <a href="https://github.com/nobr3c">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/nobr3c/count.svg">
-   </div> 
-
-<!---
-nobr3c/nobr3c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
--->
