@@ -1,87 +1,93 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=jnobr3c&color=ff0000" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=jnobr3c&color=ff0000" alt="Profile views" />
 </p>
 
 # 👋 Hi, I'm José Nobre
 
-Backend Developer focused on building **REST APIs and backend systems**.
+💡 I'm passionate about technology and love turning ideas into code. Currently, I’m exploring both personal and academic projects focused on solving real-world problems creatively.
 
-I have a background in **systems integration, APIs and enterprise applications**, with professional experience evolving from technical support to software development.
-
-Currently working with backend technologies and building projects to improve scalability, system integration and API architecture.
+🎯 I'm always looking to collaborate, contribute to open-source projects, and stay curious about everything that can help me grow as a developer.
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### Backend
-[![Backend](https://skillicons.dev/icons?i=java,nodejs,spring)](https://skillicons.dev)
+### 🚀 Currently working with:
+**Front-End**  
+[![Frontend](https://skillicons.dev/icons?i=java,html,css,bootstrap&theme=dark)](https://skillicons.dev)
 
-Java • Spring Boot • Node.js • REST APIs
+**Back-End**  
+[![Backend](https://skillicons.dev/icons?i=docker,sqlite,mysql,firebase&theme=dark)](https://skillicons.dev)
 
-### Databases
-[![Database](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-
-MySQL • PostgreSQL • Oracle
-
-### Tools
-[![Tools](https://skillicons.dev/icons?i=docker,git,vscode,postman,linux)](https://skillicons.dev)
-
-Git • Docker • Linux
+**Tools & Platforms**  
+[![Tools](https://skillicons.dev/icons?i=androidstudio,eclipse,git,gitlab,vscode,postman&theme=dark)](https://skillicons.dev)
 
 ---
 
-# 🚀 Featured Projects
-
-### Helpdesk API
-REST API for ticket management and system integration.
-
-**Stack**
-
-Node.js • Express • PostgreSQL
-
-**Features**
-
-- User management
-- Ticket creation
-- Status tracking
-- REST API architecture
+### 📚 Currently learning
+[![Learning](https://skillicons.dev/icons?i=graphql,nodejs,vuetify,apollo,npm&theme=dark)](https://skillicons.dev)
 
 ---
 
-### HR System API
+### 🔍 Interests & Next Steps
+I'm especially interested in working with modern back-end and database technologies like:
 
-User management backend system.
+[![LearningNext](https://skillicons.dev/icons?i=kotlin,mongodb,postgres&theme=dark&perline=9)](https://skillicons.dev)
 
-**Stack**
-
-Java • Spring Boot
-
-**Features**
-
-- User CRUD
-- REST endpoints
-- Database integration
+I'm also documenting my evolution here on GitHub — one commit at a time. 🚀
 
 ---
 
-### Fake Shop
+## 📊 GitHub Stats & Activity
 
-Frontend application consuming external e-commerce APIs.
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jnobr3c&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jnobr3c&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jnobr3c&theme=nord_dark) |
+| :-: | :-: | :-: |
 
-**Stack**
-
-JavaScript • HTML • CSS
-
----
-
-# 📊 GitHub Stats
-
-| <img src="https://github-readme-stats.vercel.app/api?username=jnobr3c&show_icons=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnobr3c&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117"/> |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jnobr3c&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=jnobr3c&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
+|<img width="91%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnobr3c&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />|<img width="91%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jnobr3c&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117" alt="Jnobr3c github stats" />|
+| :-: | :-: |
+
+|<img src="https://github-readme-activity-graph.vercel.app/graph?username=jnobr3c&theme=tokyo-night" width="100%" alt="github activity graph"/>|
+| :-: |
+
 ---
 
-# 🌐 Connect with me
+## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-nobrec/)
+Feel free to reach out to talk tech, collaborate, or just say hi!
+
+[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/josé-nobrec/)
+
+<!--
+<img width="35%" align="left" alt="Github" src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg"/>
+<img width="35%" align="left" alt="Github" src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg"/>
+
+
+ 📫 How to reach me [Nobr3c]([https://github.com/](https://linktr.ee/nobre_81)) -->
+
+<!--
+<p align="center">:round_pushpin: Contagem de visitantes</p>
+<div align="center">
+                      <a href="https://github.com/nobr3c">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/nobr3c/count.svg">
+   </div> -->
+
+
+<!--
+
+- 💞️ I’m looking to collaborate on ...
+-
+
+<p align="center">:round_pushpin: Contagem de visitantes</p>
+<div align="center">
+                      <a href="https://github.com/nobr3c">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/nobr3c/count.svg">
+   </div> 
+
+<!---
+nobr3c/nobr3c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
+-->
