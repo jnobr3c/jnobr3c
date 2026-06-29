@@ -1,65 +1,70 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=jnobr3c&color=ff0000" alt="Profile views" />
+<p align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=José%20Nobre&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Back-end%20Developer&descAlignY=55"/>
+  
 </p>
 
-# 👋 Hi, I'm José Nobre
+<p align="center">
+💻 Back-end Developer
+</p>
 
-💡 I'm passionate about technology and love turning ideas into code. Currently, I’m exploring both personal and academic projects focused on solving real-world problems creatively.
+<p align="center">
+Building scalable back-end applications while continuously learning modern technologies.  
+</p>
 
-🎯 I'm always looking to collaborate, contribute to open-source projects, and stay curious about everything that can help me grow as a developer.
+<p align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=jnobr3c&style=for-the-badge&color=0e75b6"/>
+  <img src="https://img.shields.io/github/followers/jnobr3c?style=for-the-badge"/>
+  
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Software Engineering 
+- ☕ Focused on Java, Spring Boot and REST APIs
+- 🗄️ Working with SQL databases and Docker
+- 💼 Developing personal projects focused on back-end development
+- 🌎 Based in Brazil
 
 ---
 
 ## 💻 Tech Stack
 
-### 🚀 Currently working with:
-**Front-End**  
-[![Frontend](https://skillicons.dev/icons?i=java,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+### ☕ Languages
 
-**Back-End**  
-[![Backend](https://skillicons.dev/icons?i=docker,sqlite,mysql,firebase&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,maven,html,css&theme=dark)](https://skillicons.dev)
 
-**Tools & Platforms**  
-[![Tools](https://skillicons.dev/icons?i=androidstudio,eclipse,git,gitlab,vscode,postman&theme=dark)](https://skillicons.dev)
+### ⚙️ Backend
 
----
+[![Backend](https://skillicons.dev/icons?i=spring,mysql,postgres,firebase,sqlite&theme=dark)](https://skillicons.dev)
 
-### 📚 Currently learning
-[![Learning](https://skillicons.dev/icons?i=graphql,nodejs,vuetify,apollo,npm&theme=dark)](https://skillicons.dev)
+### 🛠️ Tools
 
----
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,linux&theme=dark)](https://skillicons.dev)
 
-### 🔍 Interests & Next Steps
-I'm especially interested in working with modern back-end and database technologies like:
+### 📚 Currently Learning
 
-[![LearningNext](https://skillicons.dev/icons?i=kotlin,mongodb,postgres&theme=dark&perline=9)](https://skillicons.dev)
-
-I'm also documenting my evolution here on GitHub — one commit at a time. 🚀
+[![Learning](https://skillicons.dev/icons?i=graphql,mongodb,kotlin&theme=dark)](https://skillicons.dev)
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jnobr3c&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jnobr3c&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jnobr3c&theme=nord_dark) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jnobr3c&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=jnobr3c&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| <img src="https://github-readme-stats.vercel.app/api?username=jnobr3c&show_icons=true&theme=github_dark&hide_border=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnobr3c&layout=compact&theme=github_dark&hide_border=true"/> |
 | :-: | :-: |
 
-|<img width="91%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnobr3c&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />|<img width="91%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jnobr3c&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117" alt="Jnobr3c github stats" />|
-| :-: | :-: |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=jnobr3c&theme=github-dark-blue&hide_border=true"/> |
+| :-: |
 
-|<img src="https://github-readme-activity-graph.vercel.app/graph?username=jnobr3c&theme=tokyo-night" width="100%" alt="github activity graph"/>|
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=jnobr3c&theme=github-compact" width="100%"/> |
 | :-: |
 
 ---
 
-## 🌐 Connect with me
-
-Feel free to reach out to talk tech, collaborate, or just say hi!
-
-[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/josé-nobrec/)
-
+## 🐍 Contribution Snake
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jnobr3c/jnobr3c/output/github-contribution-grid-snake-dark.svg">
@@ -67,34 +72,16 @@ Feel free to reach out to talk tech, collaborate, or just say hi!
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jnobr3c/jnobr3c/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--
-<img width="35%" align="left" alt="Github" src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg"/>
-<img width="35%" align="left" alt="Github" src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg"/>
+---
+
+## 🌐 Connect with me
+
+Feel free to reach out to talk tech, collaborate, or just say hi!
+
+[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/jose-nobrec/)
+
+---
+
+<h3 align="center"> "First, solve the problem. Then, write the code." — John Johnson </h3>
 
 
- 📫 How to reach me [Nobr3c]([https://github.com/](https://linktr.ee/nobre_81)) -->
-
-<!--
-<p align="center">:round_pushpin: Contagem de visitantes</p>
-<div align="center">
-                      <a href="https://github.com/nobr3c">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/nobr3c/count.svg">
-   </div> -->
-
-
-<!--
-
-- 💞️ I’m looking to collaborate on ...
--
-
-<p align="center">:round_pushpin: Contagem de visitantes</p>
-<div align="center">
-                      <a href="https://github.com/nobr3c">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/nobr3c/count.svg">
-   </div> 
-
-<!---
-nobr3c/nobr3c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
--->
