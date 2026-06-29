@@ -53,13 +53,8 @@ Building scalable back-end applications while continuously learning modern techn
 
 ## 📊 GitHub Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=jnobr3c&show_icons=true&theme=github_dark&hide_border=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnobr3c&layout=compact&theme=github_dark&hide_border=true"/> |
-| :-: | :-: |
 
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=jnobr3c&theme=github-dark-blue&hide_border=true"/> |
-| :-: |
-
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=jnobr3c&theme=github-compact" width="100%"/> |
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=jnobr3c&theme=github-dark" width="100%"/> |
 | :-: |
 
 ---
