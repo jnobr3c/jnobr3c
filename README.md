@@ -60,6 +60,13 @@ Feel free to reach out to talk tech, collaborate, or just say hi!
 
 [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/josé-nobrec/)
 
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jnobr3c/jnobr3c/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jnobr3c/jnobr3c/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jnobr3c/jnobr3c/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!--
 <img width="35%" align="left" alt="Github" src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg"/>
 <img width="35%" align="left" alt="Github" src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg"/>
