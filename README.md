@@ -68,7 +68,7 @@ Building scalable back-end applications while continuously learning modern techn
 
 Feel free to reach out to talk tech, collaborate, or just say hi!
 
-[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/jose-nobrec/)
+[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/josenobrec/)
 
 ---
 
