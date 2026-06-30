@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-💻 Back-end Developer
-</p>
-
-<p align="center">
 Building scalable back-end applications while continuously learning modern technologies.  
 </p>
 
@@ -23,10 +19,10 @@ Building scalable back-end applications while continuously learning modern techn
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering 
-- ☕ Focused on Java, Spring Boot and REST APIs
-- 🗄️ Working with SQL databases and Docker
-- 💼 Developing personal projects focused on back-end development
+- 🎓 Graduate in Analysis and Systems Development
+- 💻 Back-end Developer
+- ☕ Focused on Java & Spring Boot
+- 📚 Always learning and building new projects
 - 🌎 Based in Brazil
 
 ---
@@ -43,7 +39,7 @@ Building scalable back-end applications while continuously learning modern techn
 
 ### 🛠️ Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,linux&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,maven,postman,vscode,idea,linux&theme=dark)](https://skillicons.dev)
 
 ### 📚 Currently Learning
 
@@ -52,10 +48,9 @@ Building scalable back-end applications while continuously learning modern techn
 ---
 
 ## 📊 GitHub Stats
-
-
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=jnobr3c&theme=github-dark" width="100%"/> |
-| :-: |
+<div align="center">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jnobr3c&theme=dark"/>
+</div>
 
 ---
 
@@ -77,6 +72,9 @@ Feel free to reach out to talk tech, collaborate, or just say hi!
 
 ---
 
-<h3 align="center"> "First, solve the problem. Then, write the code." — John Johnson </h3>
+<h3 align="center"> 
+Keep learning.
+Keep building.
+Keep moving forward. </h3>
 
 
